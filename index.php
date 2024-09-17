@@ -75,7 +75,7 @@ if (isset($_GET['belanja'])) {
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google-favicon-2015.png" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://jenifpusk.pics/?belanja=<?php echo $BRANDS ?>" />
+  <link rel="amphtml" href="https://delapan88.pics/?belanja=<?php echo $BRANDS ?>" />
   <!-- start preload -->
   <link rel="preload" href="https://img.okezone.com/content/2018/06/13/194/1910203/gadis-asia-cantik-bertato-viral-di-internet-siapa-dia-sebenarnya-2F8jxCJEhE.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
